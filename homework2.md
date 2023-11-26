@@ -1,5 +1,6 @@
 # Техническое задание для разметки датасета с вакансиями
 [Form](https://forms.gle/jg3QAX85jUvvAwsSA)
+
 [Result](https://docs.google.com/spreadsheets/d/10-v9TYTi7bLySACnYz-DBMPD-Kuah8uN-heJVYXcZig/edit?usp=sharing)
 
 ## Цель задания
