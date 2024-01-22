@@ -42,8 +42,7 @@
 
 ## Модуль 3. Мультимодальные данные
 
-- [Web-scraping — Glassdoor](https://drive.google.com/file/d/1SZXSehexodrohmRtMfWNQrRqUTOWcDgn/view?usp=sharing)
-- [Colab notebook](https://colab.research.google.com/drive/1lniowQSizsnEr5yXfpEfQ6XLzDHEv2Ql?usp=sharing)
+- [Colab notebook](https://github.com/boodscode237/data_collection/blob/18e785536b54883ea0ba4b3be97c20520222c09d/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%203.%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5/%D0%90%D0%B1%D0%BE%D0%B4%D0%BE_%D0%AD%D0%BB%D1%83%D0%BD%D0%B4%D1%83_%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_3_%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_colab.ipynb)
 
 Принцип связки мультимодельных данных:
 
