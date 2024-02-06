@@ -92,5 +92,4 @@ JSON
 
 
 
-![image](https://github.com/boodscode237/data_collection/assets/65740750/fa078ae5-916b-44fe-b2e0-fc823b81064e)
 ![image](https://github.com/boodscode237/data_collection/assets/65740750/96529068-b335-475e-860a-14197f3d9561)
