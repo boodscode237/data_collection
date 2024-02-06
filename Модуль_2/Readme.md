@@ -90,7 +90,7 @@ JSON
 
 [instructions](https://github.com/boodscode237/data_collection/assets/65740750/801b5f5a-97fb-439f-819c-3a168ac12d13)
 
-![Screenshot 2024-02-06 122648](https://github.com/boodscode237/data_collection/assets/65740750/a6535059-d1bb-44c5-be66-b8295e8922b8)
 
 
 ![image](https://github.com/boodscode237/data_collection/assets/65740750/fa078ae5-916b-44fe-b2e0-fc823b81064e)
+![image](https://github.com/boodscode237/data_collection/assets/65740750/96529068-b335-475e-860a-14197f3d9561)
