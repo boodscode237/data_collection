@@ -1,3 +1,4 @@
+![Screenshot 2024-02-06 122648](https://github.com/boodscode237/data_collection/assets/65740750/82f231fc-74be-4dfc-9dec-3af6a08261d2)
 # Техническое задание на разметку датасета Kaggle "Ships and Planes"
 1. Введение:
 Данное ТЗ описывает требования к разметке датасета Kaggle "Ships and Planes", который содержит изображения кораблей и самолетов.
@@ -90,6 +91,6 @@ JSON
 
 [instructions](https://github.com/boodscode237/data_collection/assets/65740750/801b5f5a-97fb-439f-819c-3a168ac12d13)
 
-https://github.com/boodscode237/data_collection/assets/65740750/801b5f5a-97fb-439f-819c-3a168ac12d13
+![Screenshot 2024-02-06 122648](https://github.com/boodscode237/data_collection/assets/65740750/a6535059-d1bb-44c5-be66-b8295e8922b8)
 
 
