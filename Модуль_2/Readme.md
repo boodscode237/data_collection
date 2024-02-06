@@ -88,3 +88,8 @@ JSON
 Важно тщательно планировать и контролировать процесс разметки.
 Использование онлайн-платформ может упростить процесс разметки и управления данными.
 
+[instructions](https://github.com/boodscode237/data_collection/assets/65740750/801b5f5a-97fb-439f-819c-3a168ac12d13)
+
+https://github.com/boodscode237/data_collection/assets/65740750/801b5f5a-97fb-439f-819c-3a168ac12d13
+
+
